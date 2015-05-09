@@ -1,0 +1,1 @@
+# sonix-site-assets
